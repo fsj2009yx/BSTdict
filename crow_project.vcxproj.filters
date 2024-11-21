@@ -21,6 +21,12 @@
     <ClInclude Include="AVLTree.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MyMap.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="binarySearch.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="start.cpp">
@@ -28,9 +34,6 @@
     </ClCompile>
     <ClCompile Include="BSTTree.hpp">
       <Filter>头文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
